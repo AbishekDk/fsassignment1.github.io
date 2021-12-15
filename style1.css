@@ -1,0 +1,35 @@
+header ul{
+    background-color:rgb(150, 18, 79);
+    padding: 20px;
+}
+ul{
+    float:right;
+    list-style-type: none;
+    margin: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    color:white;
+    padding: 5px 20px;
+    border: 1px solid white;
+}
+ul li a:hover{
+    background-color:white ;
+    color:rgb(150, 18, 79);
+}
+div{
+    color:rgb(21, 2, 102);
+    text-align: center;
+    padding: 54px;
+    font-size: 40px;;
+}
+#about{
+    color:rgb(150, 18, 79);
+    text-align:center;
+    padding: 50px 50px;
+}
+body{
+    padding: 30px;
+}
